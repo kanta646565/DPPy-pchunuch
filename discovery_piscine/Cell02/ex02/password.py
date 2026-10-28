@@ -3,4 +3,4 @@ x = str(input())
 if  x == 'Python is awesome' :
     print("ACCESS GRANTED")
 else :
-     print("TACCESS DENIED")
+     print("ACCESS DENIED")
